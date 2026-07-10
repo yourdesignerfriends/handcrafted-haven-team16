@@ -73,4 +73,5 @@ The project will be deployed using **Vercel**.
 ---
 
 ## Project Management
-We use **Trello** to organize tasks, user stories, and workflow.
+We use **GitHub Projects** to organize tasks, user stories, and workflow.  
+GitHub Projects allows us to track progress, assign responsibilities, and connect issues and pull requests directly to our repository.
