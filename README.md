@@ -77,3 +77,5 @@ We use **GitHub Projects** with a Kanban board to organize tasks, user stories, 
 
 You can view our project board here:  
 👉 https://github.com/yourdesignerfriends/handcrafted-haven-team16/projects/1
+
+https://www.figma.com/design/dbcFL0Fc0Uet1BEGLq9gzs/Handcrafted-Haven?node-id=0-1&t=JvhCusRkzueDzm68-1
