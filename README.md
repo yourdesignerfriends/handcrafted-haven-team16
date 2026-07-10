@@ -43,9 +43,7 @@ We want the application to feel welcoming, easy to use, and visually consistent,
 ### Technology Requirements
 - **Front-End:** HTML, CSS, JavaScript, Next.js  
 - **Back-End:** Node.js and a database  
-- **Project Management:** Trello  
 - **Code Management:** Git and GitHub  
-- **Deployment:** Vercel  
 
 ---
 
@@ -56,14 +54,6 @@ We want the application to feel welcoming, easy to use, and visually consistent,
 - Advanced e‑commerce features (shipping, payments, inventory) may be simplified or not included.  
 - The course timeline limits complexity; the focus is on core functionality, not a full commercial platform.  
 - Accessibility and responsive design requirements may limit certain design choices.
-
----
-
-## Project Structure (to be added as development progresses)
-- `/frontend` – Next.js application  
-- `/backend` – Node.js API and database  
-- `/design` – Theme, colors, typography, wireframes  
-- `/docs` – Documentation and planning  
 
 ---
 
@@ -78,4 +68,9 @@ We use **GitHub Projects** with a Kanban board to organize tasks, user stories, 
 You can view our project board here:  
 👉 https://github.com/yourdesignerfriends/handcrafted-haven-team16/projects/1
 
+---
+
+## Design and Styling Identify
+
+👉 You can view our Styling Identify here:  
 https://www.figma.com/design/dbcFL0Fc0Uet1BEGLq9gzs/Handcrafted-Haven?node-id=0-1&t=JvhCusRkzueDzm68-1
