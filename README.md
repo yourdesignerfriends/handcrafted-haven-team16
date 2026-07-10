@@ -73,5 +73,7 @@ The project will be deployed using **Vercel**.
 ---
 
 ## Project Management
-We use **GitHub Projects** to organize tasks, user stories, and workflow.  
-GitHub Projects allows us to track progress, assign responsibilities, and connect issues and pull requests directly to our repository.
+We use **GitHub Projects** with a Kanban board to organize tasks, user stories, and workflow for Handcrafted Haven.
+
+You can view our project board here:  
+👉 https://github.com/yourdesignerfriends/handcrafted-haven-team16/projects/1
